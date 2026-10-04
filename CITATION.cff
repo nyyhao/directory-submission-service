@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you quote this page, please link to it or to https://submitstorm.com."
+title: "SubmitStorm: Directory Submission Service"
+type: dataset
+authors:
+  - name: SubmitStorm
+    website: https://submitstorm.com
+url: "https://submitstorm.com"
+repository-code: "https://github.com/nyyhao/directory-submission-service"
+license: CC-BY-4.0
+date-released: 2026-10-04
+keywords:
+  - directory submission service
+  - directory submission
+  - startup directories
+  - saas directories
+  - ai tool directories
+  - backlinks
+  - domain rating
+abstract: "SubmitStorm lists startups, SaaS products and AI tools on 50 to 250 vetted web directories for a one-time fee of $49 to $299, with a proof screenshot and link for every listing."

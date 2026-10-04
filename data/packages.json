@@ -1,0 +1,23 @@
+{
+  "name": "SubmitStorm",
+  "url": "https://submitstorm.com",
+  "description": "Directory submission service for startups, SaaS and AI tools: one brief, a one-time fee, proof of every listing.",
+  "currency": "USD",
+  "updated": "2026-10-04",
+  "packages": [
+    { "name": "Launch", "price": 49, "directories": 50, "directoriesWithBadge": 100, "extraBacklinks": 20, "deliveryDays": 14, "frontOfQueue": false },
+    { "name": "Growth", "price": 99, "directories": 100, "directoriesWithBadge": 150, "extraBacklinks": 40, "deliveryDays": 10, "frontOfQueue": false },
+    { "name": "Storm", "price": 179, "directories": 150, "directoriesWithBadge": 200, "extraBacklinks": 60, "deliveryDays": 7, "frontOfQueue": true },
+    { "name": "Hurricane", "price": 299, "directories": 200, "directoriesWithBadge": 250, "extraBacklinks": 100, "deliveryDays": 7, "frontOfQueue": true }
+  ],
+  "included": [
+    "Dofollow and high-DR directories first, matched to the product's category",
+    "Dashboard counting submissions as they land",
+    "Final report with a proof screenshot and link per listing (Excel and CSV)",
+    "Badge component: up to 50 more directories",
+    "Domain Rating recorded at the start and at the end",
+    "No directory repeated for the same site"
+  ],
+  "catalog": { "directories": 1357, "dr50plus": 302, "dofollow": 670, "freeListing": 996, "browse": "https://submitstorm.com/directories" },
+  "contact": "hello@submitstorm.com"
+}
