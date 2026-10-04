@@ -49,10 +49,10 @@ All prices are in USD and paid once. There is no subscription.
 
 | Package | Price | Directories | With badge component | Extra backlinks | Done within | Queue |
 | --- | ---: | ---: | ---: | ---: | --- | --- |
-| **Launch** | **$49** | 50 | up to 100 | 20 | 14 days | in order of payment |
-| **Growth** ⭐ | **$99** | 100 | up to 150 | 40 | 10 days | in order of payment |
-| **Storm** | **$179** | 150 | up to 200 | 60 | 7 days | front of the queue |
-| **Hurricane** | **$299** | 200 | up to 250 | 100 | 7 days | front of the queue |
+| **Launch** | **$49** | 50 | up to 100 | 10 | 14 days | in order of payment |
+| **Growth** ⭐ | **$99** | 100 | up to 150 | 20 | 10 days | in order of payment |
+| **Storm** | **$179** | 150 | up to 200 | 30 | 7 days | front of the queue |
+| **Hurricane** | **$299** | 200 | up to 250 | 50 | 7 days | front of the queue |
 
 **Every package includes:**
 

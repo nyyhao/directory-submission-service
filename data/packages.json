@@ -5,10 +5,10 @@
   "currency": "USD",
   "updated": "2026-10-04",
   "packages": [
-    { "name": "Launch", "price": 49, "directories": 50, "directoriesWithBadge": 100, "extraBacklinks": 20, "deliveryDays": 14, "frontOfQueue": false },
-    { "name": "Growth", "price": 99, "directories": 100, "directoriesWithBadge": 150, "extraBacklinks": 40, "deliveryDays": 10, "frontOfQueue": false },
-    { "name": "Storm", "price": 179, "directories": 150, "directoriesWithBadge": 200, "extraBacklinks": 60, "deliveryDays": 7, "frontOfQueue": true },
-    { "name": "Hurricane", "price": 299, "directories": 200, "directoriesWithBadge": 250, "extraBacklinks": 100, "deliveryDays": 7, "frontOfQueue": true }
+    { "name": "Launch", "price": 49, "directories": 50, "directoriesWithBadge": 100, "extraBacklinks": 10, "deliveryDays": 14, "frontOfQueue": false },
+    { "name": "Growth", "price": 99, "directories": 100, "directoriesWithBadge": 150, "extraBacklinks": 20, "deliveryDays": 10, "frontOfQueue": false },
+    { "name": "Storm", "price": 179, "directories": 150, "directoriesWithBadge": 200, "extraBacklinks": 30, "deliveryDays": 7, "frontOfQueue": true },
+    { "name": "Hurricane", "price": 299, "directories": 200, "directoriesWithBadge": 250, "extraBacklinks": 50, "deliveryDays": 7, "frontOfQueue": true }
   ],
   "included": [
     "Dofollow and high-DR directories first, matched to the product's category",
